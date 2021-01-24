@@ -7,7 +7,7 @@ For this weeks assignment I learned several things through my process of refacto
 Initially, I began  by consolidating the .CSS,
 combining selectors, and making the code more efficient; while making sure the changes I made maintained the appearance of the website. Also I added alt attributes to all the images
 
-Next, I replaced `<div>` with semantic elements. Ultimately I was able to replace every `<div>` tag in the HTML with an appropriate semantic tag.
+Next, I sectioned of the HTML with comments where I intended to replace `<div>` elements.  I then replaced `<div>` elements with semantic elements. Ultimately I was able to replace every `<div>` tag in the HTML with an appropriate semantic tag.
 
 While working my way through the HTML, I regularly returned to the CSS to rename selectors with the appropriate updated tags.
 
