@@ -4,4 +4,5 @@
 
 For this weeks assignment I learned several things through my process of refactoring the website.
 
-Initially, I began 
+Initially, I began  by consolidating the .CSS,
+combining selectors, and 
