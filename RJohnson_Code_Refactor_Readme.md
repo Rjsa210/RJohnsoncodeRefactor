@@ -2,7 +2,7 @@
 ## **Reid Johnson**
 ### UTSA Web Development Boot Camp
 
-For this weeks assignment I learned several things through my process of refactoring the website.
+For this weeks assignment I learned several things through my process of refactoring the website. First of all, everytime I make a few changes I should git commit. Also, I learned to first make any syntax changes that don't affect the operation of the code, as it makes it easier to further streamline the code if redundant processes are consolidated.
 
 Initially, I began  by consolidating the .CSS,
 combining selectors, and making the code more efficient; while making sure the changes I made maintained the appearance of the website. Also I added alt attributes to all the images
